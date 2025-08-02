@@ -1,4 +1,4 @@
-<DOCYPE hyml>
+<DOCTYPE hyml>
     <html>
         <body>
             <title>Bank Management System</title>
